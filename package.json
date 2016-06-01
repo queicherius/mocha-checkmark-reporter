@@ -1,0 +1,26 @@
+{
+  "name": "mocha-checkmark-reporter",
+  "version": "0.1.0",
+  "description": "Test reporter that prints small but useful results to console (for Mocha).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/queicherius/mocha-checkmark-reporter.git"
+  },
+  "keywords": [
+    "mocha-plugin",
+    "reporter"
+  ],
+  "author": "queicherius@gmail.com",
+  "dependencies": {
+    "generic-checkmark-reporter": "^0.1.1"
+  },
+  "peerDependencies": {
+    "mocha": ">=2.0"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
